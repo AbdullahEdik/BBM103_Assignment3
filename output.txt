@@ -1,0 +1,4 @@
+The category ’category-1A’ having 225 seats has been created
+The category ’category-2A’ having 400 seats has been created
+The category ’category-1E’ having 625 seats has been created
+Warning: Cannot create the category for the second time. The stadium has already category-2A.
